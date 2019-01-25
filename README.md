@@ -1,8 +1,4 @@
-# AlgorithmTraining
-璁板綍涓�浜涢潰璇曠畻娉曢鐨勫疄鐜�
+# Algorithm
 
-
-git clone git@github.com:ValiantYuan/AlgorithmTraining.git璁板綍涓�浜涢潰璇曠畻娉曢鐨勫疄鐜�
-
-
-git clone git@github.com:ValiantYuan/AlgorithmTraining.git
+记录一些算法相关的内容
+git clone git@github.com:ValiantYuan/Algorithm.git
